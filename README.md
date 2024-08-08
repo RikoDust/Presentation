@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emeric !
 - 👀 I’m interested in programmation
 - 🌱 I’m currently a student at Openclassrooms
-- 📫 How to reach me : Instagram/Riko_Dust
+- 📫 How to reach me : www.linkedin.com/in/emeric-pataut
 
 <!---
 RikoDust/RikoDust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
