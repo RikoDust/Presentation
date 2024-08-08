@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RikoDust
+- 👋 Hi, I’m Emeric !
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently a student at Openclassrooms
 - 📫 How to reach me : Instagram/Riko_Dust
 
 <!---
