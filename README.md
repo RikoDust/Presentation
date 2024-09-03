@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emeric !
 - 👀 I’m interested in programmation
-- 🌱 I’m currently a student at Openclassrooms
+- 🌱 I’m currently a student at Openclassrooms - Intégrateur web
 - 📫 How to reach me : www.linkedin.com/in/emeric-pataut
 
 <!---
