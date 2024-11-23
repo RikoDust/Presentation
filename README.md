@@ -3,7 +3,7 @@
 - 🌱 I’m currently a student at Openclassrooms - Intégrateur web
 - 📫 How to reach me : www.linkedin.com/in/emeric-pataut
 - 📖 Amateur creator of stories and interactive games
-      ➡️
+      - ➡️ https://moiki.fr/social-club/riko-dust
 
 <!---
 RikoDust/RikoDust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
